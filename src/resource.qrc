@@ -1,5 +1,0 @@
-<RCC>
-    <qresource prefix="/">
-        <file>Resource/image/uefi.png</file>
-    </qresource>
-</RCC>

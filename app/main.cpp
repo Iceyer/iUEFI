@@ -2,7 +2,6 @@
 #include <QQmlApplicationEngine>
 #include <QQuickStyle>
 #include <QIcon>
-#include <QFont>
 #include <QDebug>
 
 #include "uefibootmanager.h"
@@ -19,7 +18,6 @@ int main(int argc, char *argv[])
     QCoreApplication::setAttribute(Qt::AA_EnableHighDpiScaling);
     QGuiApplication app(argc, argv);
 
-    app.setFont(QFont("Yahei Mono"));
     QQuickStyle::setStyle("Material");
 
     QQmlApplicationEngine engine;

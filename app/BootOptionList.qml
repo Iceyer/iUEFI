@@ -42,10 +42,11 @@ Item {
                     duration: 100
                 }
             }
-            MouseArea {
-                anchors.fill: parent
-                onClicked: wrapper.ListView.view.currentIndex = index
-            }
+//            MouseArea {
+//                z:99
+//                anchors.fill: parent
+//                onClicked: wrapper.ListView.view.currentIndex = index
+//            }
         }
     }
 

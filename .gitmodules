@@ -1,0 +1,3 @@
+[submodule "verdor/xefi"]
+	path = verdor/xefi
+	url = https://github.com/Iceyer/xefi.git
