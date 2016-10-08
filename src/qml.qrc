@@ -1,0 +1,10 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>BootOption.qml</file>
+        <file>FootBar.qml</file>
+        <file>BootOptionList.qml</file>
+        <file>TestListView.qml</file>
+        <file>AddBootOption.qml</file>
+    </qresource>
+</RCC>
